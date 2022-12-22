@@ -13,7 +13,7 @@ namespace isRock.Template
         [HttpPost]
         public IActionResult POST()
         {
-            var AdminUserId = "__________Line_Admin_User_ID________________";
+            var AdminUserId = "WfQSga8xbej+E+NUFbW74X553QqvjCzFNtj721/6NWiNbFXZhIIj87cLFvFC9JffuMBnyEKG+5HCMrt7P9CWpJ1ujiOfNrMztdsyIdJ1UYbK1MV4rVovc1GWbosyRD8v8eiy1+yje7pQpqFLOBQ2vwdB04t89/1O/w1cDnyilFU=";
 
             try
             {
